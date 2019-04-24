@@ -15,7 +15,7 @@ Keynotes:
 * August 2017: Speaker: Coder Cruise (https://www.codercruise.com/2017/speakers/chris-holland/)
 * April 2018: Speaker: Agilia Conference, Czech Republic (http://agiliaconference.com/agilia-conference-
 2018/speakers/chris-holland/)
-* April 2018: Speaker: Longhorn PHP, Austin, TX (https://joind.in/event/longhorn-php-conference-2018/better-and-faster- tdd-ing-a-ride-hailing-application-wphpunit-symfony-and-doctrine)
+* April 2018: Speaker: Longhorn PHP, Austin, TX (https://joind.in/event/longhorn-php-conference-2018/better-and-faster-tdd-ing-a-ride-hailing-application-wphpunit-symfony-and-doctrine)
 * May 2018: Speaker: DevOpsDays, Victoria (https://www.devopsdays.org/events/2018-victoria/program/)
 * June 2018: Speaker: Dutch PHP Conference, Amsterdam (https://www.phpconference.nl/2018/speakers/#chrisholland)
 * July 2018: Webinar Presenter: Nomad PHP (http://bit.ly/chris-nomad)
