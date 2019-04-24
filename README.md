@@ -30,6 +30,7 @@ Keynotes:
 * https://2019.midwestphp.org/sessions
 * https://paris2019.live.symfony.com/speakers#session-2764
 * https://www.longhornphp.com/sessions/#taming-change
+* https://www.chicagocodecamp.com/sessions/detail/1546
 * https://phpconference.com/web-architecture/better-and-faster-tdd-ing-a-ride-hailing-application-w-phpunit-symfony-and-doctrine/ ( 6-hour workshop in an 8-hour day)
-* https://phpconference.com/php-development/a-case-for-generics-in-php/
+ * https://phpconference.com/php-development/a-case-for-generics-in-php/
 * https://www.phpconference.nl/speakers#chris-holland (3-hour workshop)
