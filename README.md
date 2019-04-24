@@ -6,7 +6,7 @@ https://joind.in/user/chrisholland
 Keynotes:
 =========
 * https://joind.in/event/phpers-day-2019/keynote-taming-change
- * this keynote aims to be an equal blend of informative, entertaining and motivating.
+  * this keynote aims to be an equal blend of informative, entertaining and motivating.
 
 2018 Recap:
 ===========
@@ -32,5 +32,5 @@ Keynotes:
 * https://www.longhornphp.com/sessions/#taming-change
 * https://www.chicagocodecamp.com/sessions/detail/1546
 * https://phpconference.com/web-architecture/better-and-faster-tdd-ing-a-ride-hailing-application-w-phpunit-symfony-and-doctrine/ ( 6-hour workshop in an 8-hour day)
- * https://phpconference.com/php-development/a-case-for-generics-in-php/
+  * https://phpconference.com/php-development/a-case-for-generics-in-php/
 * https://www.phpconference.nl/speakers#chris-holland (3-hour workshop)
