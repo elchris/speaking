@@ -35,4 +35,6 @@ Keynotes:
   * https://phpconference.com/php-development/a-case-for-generics-in-php/
 * https://www.phpconference.nl/speakers#chris-holland (3-hour workshop)
 * https://www.javascriptandfriends.com/speakers
+* http://connect.tech
+
 
