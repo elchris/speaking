@@ -34,6 +34,8 @@ Keynotes:
 * https://phpconference.com/web-architecture/better-and-faster-tdd-ing-a-ride-hailing-application-w-phpunit-symfony-and-doctrine/ ( 6-hour workshop in an 8-hour day)
   * https://phpconference.com/php-development/a-case-for-generics-in-php/
 * https://www.phpconference.nl/speakers#chris-holland (3-hour workshop)
+* August: AustinPHP Meetup
+* September 19th 6pm PDT: NomadPHP
 * https://www.javascriptandfriends.com/speakers
 * http://connect.tech
 
