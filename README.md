@@ -35,6 +35,7 @@ Keynotes:
   * https://phpconference.com/php-development/a-case-for-generics-in-php/
   * https://phpconference.com/performance-security/practical-security-in-web-applications/
 * https://www.phpconference.nl/speakers#chris-holland (3-hour workshop)
+* July: Los Angeles Software Crafting Meetup
 * August: AustinPHP Meetup
 * September 19th 6pm PDT: NomadPHP
 * https://www.javascriptandfriends.com/speakers
