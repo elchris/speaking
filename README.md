@@ -39,6 +39,7 @@ Keynotes:
 * https://www.javascriptandfriends.com/speakers
 * August: AustinPHP Meetup
 * September 19th 6pm PDT: NomadPHP
+  * https://nomadphp.com/live/5BFpbIQ1wrbehP7hG7rGQp/Leveraging-Typed-Exceptions-for-Cleaner-Error-Handling/
 * http://connect.tech
 
 
