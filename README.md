@@ -35,8 +35,8 @@ Keynotes:
   * https://phpconference.com/php-development/a-case-for-generics-in-php/
   * https://phpconference.com/performance-security/practical-security-in-web-applications/
 * https://www.phpconference.nl/speakers#chris-holland (3-hour workshop)
-* July 1st: Los Angeles Software Crafting Meetup - http://bit.ly/chris-la
-* July 18th 6pm PDT: NomadPHP
+* July 1: Los Angeles Software Crafting Meetup - http://bit.ly/chris-la
+* July 18: 6pm PDT: NomadPHP
   * https://nomadphp.com/live/5BFpbIQ1wrbehP7hG7rGQp/Leveraging-Typed-Exceptions-for-Cleaner-Error-Handling/
 * August 2: https://www.javascriptandfriends.com/speakers
 * August 8: AustinPHP Meetup https://www.meetup.com/austinphp/events/mtdbrqyzlblb/
