@@ -40,7 +40,7 @@ Keynotes:
   * https://nomadphp.com/live/5BFpbIQ1wrbehP7hG7rGQp/Leveraging-Typed-Exceptions-for-Cleaner-Error-Handling/
 * August 2: https://www.javascriptandfriends.com/speakers
 * August 8: AustinPHP Meetup https://www.meetup.com/austinphp/events/mtdbrqyzlblb/
-* October 4-6: (canceled) https://2019.phpce.eu/en/
+* -October 4-6: (canceled) https://2019.phpce.eu/en/-
 * October 12: https://www.maxcode.net/tech-talks/
 * October 16-18: http://connect.tech
 * November 5-7: https://www.developerweek.com/Austin/conference/speakers/
