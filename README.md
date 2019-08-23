@@ -5,8 +5,25 @@ https://joind.in/user/chrisholland
 
 Keynotes:
 =========
-* https://joind.in/event/phpers-day-2019/keynote-taming-change
+* Taming Change
   * this keynote aims to be an equal blend of informative, entertaining and motivating.
+  * https://joind.in/event/phpers-day-2019/keynote-taming-change
+  * https://joind.in/event/longhorn-php-conference-2019/taming-change
+  * Recording at LA Software Crafting Meetup: https://www.youtube.com/watch?v=W4XjJOelqNU
+
+Some Reviews & Recordings:
+==========================
+
+* TDD Workshop:
+  * https://joind.in/event/dutch-php-conference-2019/better-and-faster-tdd-ing-a-ride-hailing-application-w-phpunit-symfony-and-doctrine
+  * https://joind.in/event/longhorn-php-conference-2018/better-and-faster-tdd-ing-a-ride-hailing-application-wphpunit-symfony-and-doctrine
+* Leveraging Typed Exceptions:
+  * https://joind.in/event/dutch-php-conference-2019/leveraging-typed-exceptions-for-cleaner-error-handling
+  * https://www.youtube.com/watch?v=kyTDjintL60
+  * https://nomadphp.com/live/5BFpbIQ1wrbehP7hG7rGQp/Leveraging-Typed-Exceptions-for-Cleaner-Error-Handling/
+* Practical Security in Web Applications:
+  * https://joind.in/event/midwest-php-2019/practical-security-for-web-applications
+  * https://joind.in/event/phpworld-2018/leveraging-typed-exceptions-for-cleaner-error-handling
 
 2018 Recap:
 ===========
