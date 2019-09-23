@@ -62,4 +62,8 @@ Some Reviews & Recordings:
 * November 5-7: https://www.developerweek.com/Austin/conference/speakers/
 * November 8-9: https://conference.scotlandphp.co.uk
 
+2020:
+=====
+
+* April 2-4: https://midwestphp.org/schedule - DDoS Threat Landscape & Defensive Countermeasures
 
