@@ -65,5 +65,7 @@ Some Reviews & Recordings:
 2020:
 =====
 
+* Jan 6-10: http://www.codemash.org - DDoS Threat Landscape & Defensive Countermeasures
 * April 2-4: https://midwestphp.org/schedule - DDoS Threat Landscape & Defensive Countermeasures
+
 
