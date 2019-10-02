@@ -61,7 +61,6 @@ Some Reviews & Recordings:
 * October 16-18: http://connect.tech
 * November 5-7: https://www.developerweek.com/Austin/conference/speakers/
 * November 8-9: https://conference.scotlandphp.co.uk
-* November 14: https://nomadphp.com/search/videos?search_query=Chris+holland - Practical Security for Web Applications
 
 2020:
 =====
