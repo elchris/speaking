@@ -19,11 +19,12 @@ Some Reviews & Recordings:
   * https://joind.in/event/longhorn-php-conference-2018/better-and-faster-tdd-ing-a-ride-hailing-application-wphpunit-symfony-and-doctrine
 * Leveraging Typed Exceptions:
   * https://joind.in/event/dutch-php-conference-2019/leveraging-typed-exceptions-for-cleaner-error-handling
+  * https://joind.in/event/phpworld-2018/leveraging-typed-exceptions-for-cleaner-error-handling
   * https://www.youtube.com/watch?v=kyTDjintL60
   * https://nomadphp.com/live/5BFpbIQ1wrbehP7hG7rGQp/Leveraging-Typed-Exceptions-for-Cleaner-Error-Handling/
 * Practical Security in Web Applications:
   * https://joind.in/event/midwest-php-2019/practical-security-for-web-applications
-  * https://joind.in/event/phpworld-2018/leveraging-typed-exceptions-for-cleaner-error-handling
+  * http://bit.ly/webapps-security
 
 2018 Recap:
 ===========
