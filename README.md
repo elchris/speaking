@@ -1,9 +1,9 @@
 # speaking
 Repository of talks and speaking engagements
 
-https://joind.in/user/chrisholland
-https://www.linkedin.com/in/chrisholland/
-https://twitter.com/chrisholland
+* https://joind.in/user/chrisholland
+* https://www.linkedin.com/in/chrisholland/
+* https://twitter.com/chrisholland
 
 Keynotes:
 =========
