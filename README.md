@@ -45,25 +45,40 @@ Some Reviews & Recordings:
 =====
 
 * https://ndcporto.com/talk/practical-security-for-web-applications/
+ * Practical Security in Web Applications
 * https://joind.in/event/phpers-day-2019/keynote-taming-change
+ * Keynote: Taming Change
 * https://2019.midwestphp.org/sessions
+ * Practical Security in Web Applications
 * https://paris2019.live.symfony.com/speakers#session-2764
 * https://www.longhornphp.com/sessions/#taming-change
+ * Keynote: Taming Change
 * https://www.chicagocodecamp.com/sessions/detail/1546
 * https://phpconference.com/web-architecture/better-and-faster-tdd-ing-a-ride-hailing-application-w-phpunit-symfony-and-doctrine/ ( 6-hour workshop in an 8-hour day)
   * https://phpconference.com/php-development/a-case-for-generics-in-php/
   * https://phpconference.com/performance-security/practical-security-in-web-applications/
 * https://www.phpconference.nl/speakers#chris-holland (3-hour workshop)
 * July 1: Los Angeles Software Crafting Meetup - http://bit.ly/chris-la
+ * Taming Change
 * July 18: 6pm PDT: NomadPHP
   * https://nomadphp.com/live/5BFpbIQ1wrbehP7hG7rGQp/Leveraging-Typed-Exceptions-for-Cleaner-Error-Handling/
 * August 2: https://www.javascriptandfriends.com/speakers
+ * Test-Driving Agility into Software
 * August 8: AustinPHP Meetup https://www.meetup.com/austinphp/events/mtdbrqyzlblb/
+ * DDoS Attacks: Threat Landscape & Defensive Countermeasures
 * -October 4-6: (canceled) https://2019.phpce.eu/en/-
-* October 12: https://www.maxcode.net/tech-talks/
-* October 16-18: http://connect.tech
-* November 5-7: https://www.developerweek.com/Austin/conference/speakers/
-* November 8-9: https://conference.scotlandphp.co.uk
+* October 12: https://www.maxcode.net/innovative-tech-talks/
+ * Practical Security in Web Applications
+* October 16-18: http://connect.tech/session/?id=4115 / http://connect.tech/session/?id=4116
+ * Taming Change (regular talk)
+ * Practical Security in Web Applications
+* November 5-7: https://developerweekaustin2019.sched.com/speaker/chris_holland.1zyf18vz?iframe=no&w=100%&sidebar=yes&bg=no
+ * Test-Driving Agility into Software
+* November 8-9: https://joind.in/event/scotlandphp-2019/schedule/list
+ * Keynote: Taming Change
+ * Shipping Better Software Faster & Having Fun Doing It
+* November 15: NomadPHP https://twitter.com/nomadphp/status/1195147711336464384?s=20
+ * Practical Security in Web Applications 
 
 2020:
 =====
