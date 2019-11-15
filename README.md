@@ -45,7 +45,7 @@ Some Reviews & Recordings:
 2019:
 =====
 
-* https://ndcporto.com/talk/practical-security-for-web-applications/
+* NDC Porto: https://www.youtube.com/watch?v=9OuqyVYsUuA&list=PL03Lrmd9CiGeSu3F7Te9euJXvqz3wnmvJ&index=20&t=0s
   * Practical Security in Web Applications
 * https://joind.in/event/phpers-day-2019/keynote-taming-change
   * Keynote: Taming Change
