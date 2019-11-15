@@ -11,6 +11,7 @@ Keynotes:
   * this keynote aims to be an equal blend of informative, entertaining and motivating.
   * https://joind.in/event/phpers-day-2019/keynote-taming-change
   * https://joind.in/event/longhorn-php-conference-2019/taming-change
+  * https://joind.in/event/scotlandphp-2019/taming-change
   * Recording at LA Software Crafting Meetup: https://www.youtube.com/watch?v=W4XjJOelqNU
 
 Some Reviews & Recordings:
@@ -84,7 +85,9 @@ Some Reviews & Recordings:
 2020:
 =====
 
-* Jan 6-10: http://www.codemash.org - DDoS Threat Landscape & Defensive Countermeasures
-* April 2-4: https://midwestphp.org/schedule - DDoS Threat Landscape & Defensive Countermeasures
+* Jan 6-10: http://www.codemash.org
+  * DDoS Threat Landscape & Defensive Countermeasures
+* April 2-4: https://midwestphp.org/schedule
+  * DDoS Threat Landscape & Defensive Countermeasures
 
 
