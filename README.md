@@ -1,6 +1,8 @@
 # speaking
 Repository of talks and speaking engagements
 
+About me:
+=========
 * https://joind.in/user/chrisholland
 * https://www.linkedin.com/in/chrisholland/
 * https://twitter.com/chrisholland
