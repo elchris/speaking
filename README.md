@@ -89,6 +89,8 @@ Some Reviews & Recordings:
 
 * Jan 6-10: http://www.codemash.org
   * DDoS Threat Landscape & Defensive Countermeasures
+* March 12-13: https://webcraft.com.jm/
+  * Practical Security in Web Applications
 * April 2-4: https://midwestphp.org/schedule
   * DDoS Threat Landscape & Defensive Countermeasures
 
