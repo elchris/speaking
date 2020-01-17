@@ -14,7 +14,7 @@ Keynotes:
   * https://joind.in/event/phpers-day-2019/keynote-taming-change
   * https://joind.in/event/longhorn-php-conference-2019/taming-change
   * https://joind.in/event/scotlandphp-2019/taming-change
-  * Recording at LA Software Crafting Meetup: https://www.youtube.com/watch?v=W4XjJOelqNU
+  * VIDEO: Recording at LA Software Crafting Meetup: https://www.youtube.com/watch?v=W4XjJOelqNU
 
 Some Reviews & Recordings:
 ==========================
@@ -25,11 +25,11 @@ Some Reviews & Recordings:
 * Leveraging Typed Exceptions:
   * https://joind.in/event/dutch-php-conference-2019/leveraging-typed-exceptions-for-cleaner-error-handling
   * https://joind.in/event/phpworld-2018/leveraging-typed-exceptions-for-cleaner-error-handling
-  * https://www.youtube.com/watch?v=kyTDjintL60
+  * VIDEO: https://www.youtube.com/watch?v=kyTDjintL60
   * https://nomadphp.com/live/5BFpbIQ1wrbehP7hG7rGQp/Leveraging-Typed-Exceptions-for-Cleaner-Error-Handling/
 * Practical Security in Web Applications:
   * https://joind.in/event/midwest-php-2019/practical-security-for-web-applications
-  * http://bit.ly/webapps-security
+  * VIDEO: http://bit.ly/webapps-security
 
 2018 Recap:
 ===========
