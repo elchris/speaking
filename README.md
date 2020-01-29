@@ -93,5 +93,8 @@ Some Reviews & Recordings:
   * Practical Security in Web Applications
 * April 2-4: https://midwestphp.org/schedule
   * DDoS Threat Landscape & Defensive Countermeasures
+* May 14-15: https://2020.phpday.it
+  * Keynote: Taming Change
+  * Talk: Leveraging Typed Exceptions
 
 
