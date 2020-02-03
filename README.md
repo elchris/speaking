@@ -14,7 +14,7 @@ Keynotes:
   * https://joind.in/event/phpers-day-2019/keynote-taming-change
   * https://joind.in/event/longhorn-php-conference-2019/taming-change
   * https://joind.in/event/scotlandphp-2019/taming-change
-  * VIDEO: Recording at LA Software Crafting Meetup: https://www.youtube.com/watch?v=W4XjJOelqNU
+  * VIDEO: Opening Keynote at Scotland PHP 2019: https://www.youtube.com/watch?v=DmchquRsj-k
 
 Some Reviews & Recordings:
 ==========================
