@@ -96,5 +96,10 @@ Some Reviews & Recordings:
 * May 14-15: https://2020.phpday.it
   * Keynote: Taming Change
   * Talk: Leveraging Typed Exceptions
+* May 19-21: http://agileandbeyond.com/2020/
+  * Talk: Taming Change
+  * Test-Driving Agility into Software
+* June 25-27: https://www.phpconference.nl
+  * Opening Keynote: Taming Change
 
 
