@@ -6,6 +6,9 @@ About me:
 * https://joind.in/user/chrisholland
 * https://www.linkedin.com/in/chrisholland/
 * https://twitter.com/chrisholland
+* Open-Source Contributions
+  * trikoder/oauth2-bundle [v3.0.0](https://github.com/trikoder/oauth2-bundle/releases/tag/v3.0.0): contributed port to Symfony 4.4.* / 5.*
+  * [HashTuner](https://github.com/elchris/hashtuner)
 
 Keynotes:
 =========
