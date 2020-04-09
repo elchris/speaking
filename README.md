@@ -7,7 +7,8 @@ About me:
 * https://www.linkedin.com/in/chrisholland/
 * https://twitter.com/chrisholland
 * Open-Source Contributions
-  * trikoder/oauth2-bundle [v3.0.0](https://github.com/trikoder/oauth2-bundle/releases/tag/v3.0.0): contributed port to Symfony 4.4.* / 5.*
+  * trikoder/oauth2-bundle: [v3.0.0](https://github.com/trikoder/oauth2-bundle/releases/tag/v3.0.0): contributed port to Symfony 4.4.* / 5.*
+  * friendsofsymfony/oauth-server-bundle: [fork](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle/issues/625#issuecomment-584354536) to support Symfony 4.4.* / 5.*
   * [HashTuner](https://github.com/elchris/hashtuner)
 
 Keynotes:
