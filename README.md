@@ -9,7 +9,10 @@ About me:
 * Open-Source Contributions
   * trikoder/oauth2-bundle: [v3.0.0](https://github.com/trikoder/oauth2-bundle/releases/tag/v3.0.0): contributed port to Symfony 4.4.* / 5.*
   * friendsofsymfony/oauth-server-bundle: [fork](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle/issues/625#issuecomment-584354536) to support Symfony 4.4.* / 5.*
-  * [HashTuner](https://github.com/elchris/hashtuner)
+  * [HashTuner](https://github.com/elchris/hashtuner) - Framework I built to tune Password Hashing Algorithms
+* Publications
+  * [CIOReview Magazine, online & print](https://softwaretesting.cioreview.com/cxoinsight/testdriving-agility-into-software-nid-27307-cid-112.html)
+  * [PHP Architect, online & print](https://www.phparch.com/community/chris-holland/)
 
 Keynotes:
 =========
