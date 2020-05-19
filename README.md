@@ -96,17 +96,17 @@ Some Reviews & Recordings:
 
 * Jan 6-10: http://www.codemash.org
   * DDoS Threat Landscape & Defensive Countermeasures
-* March 12-13: https://webcraft.com.jm/
-  * Practical Security in Web Applications
 * April 2-4: https://midwestphp.org/schedule
   * DDoS Threat Landscape & Defensive Countermeasures
-* May 14-15: https://2020.phpday.it
+* May 13: https://joind.in/event/php-russia-2020/practical-security-in-web-applications
+  * Practical Security in Web Applications
+* May 30-31: PHPFwdays, Ukraine: https://twitter.com/phpfwdays/status/1262750905524293637?s=20
+  * Leveraging Typed Exceptions
+* May 14-15: https://2020.phpday.it (postponed)
   * Keynote: Taming Change
   * Talk: Leveraging Typed Exceptions
-* May 19-21: http://agileandbeyond.com/2020/
+* May 19-21: http://agileandbeyond.com/2020/ (postponed)
   * Talk: Taming Change
   * Test-Driving Agility into Software
-* June 25-27: https://www.phpconference.nl
-  * Opening Keynote: Taming Change
 
 
