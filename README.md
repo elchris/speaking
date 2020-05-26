@@ -100,6 +100,8 @@ Some Reviews & Recordings:
   * DDoS Threat Landscape & Defensive Countermeasures
 * May 13: https://joind.in/event/php-russia-2020/practical-security-in-web-applications
   * Practical Security in Web Applications
+* May 25: https://www.instreamingcolor.com/schedule
+  * Test-Driving Agility into Software
 * May 30-31: PHPFwdays, Ukraine: https://twitter.com/phpfwdays/status/1262750905524293637?s=20
   * Leveraging Typed Exceptions
 * May 14-15: https://2020.phpday.it (postponed)
